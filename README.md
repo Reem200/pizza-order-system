@@ -1,5 +1,5 @@
 # pizza-order-system
-A program that allows you to oder pizza and see your order details. 
+A program that allows you to order pizza and see your order details. 
 
 ## How to order:
 Run the program...
