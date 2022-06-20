@@ -10,7 +10,7 @@ Run the program...
 5. Select [Order] when you are done
 6. Add a new order if you prefer to
 
-Here is how the pizzarie main page looks like: 
+Here is how the pizzerie main page looks like: 
 ![Pizzerie main page](images/Pizzerie-main-page.png)
 
 You can check the details of your order by selecting your order and presseing [View details]:
