@@ -1,7 +1,6 @@
 package Controller;
 /*
   Author: Reem Mohamed
-  Id: al0281
   Study program: DT
 */
 import Model.Cart;

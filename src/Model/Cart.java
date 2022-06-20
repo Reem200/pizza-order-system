@@ -1,7 +1,6 @@
 package Model;
 /*
   Author: Reem Mohamed
-  Id: al0281
   Study program: DT
 */
 import java.util.ArrayList;

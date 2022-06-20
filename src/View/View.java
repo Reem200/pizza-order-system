@@ -1,7 +1,6 @@
 package View;
 /*
   Author: Reem Mohamed
-  Id: al0281
   Study program: DT
 */
 
